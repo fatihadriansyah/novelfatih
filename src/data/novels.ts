@@ -139,4 +139,42 @@ export const novels = [
       "Begitulah cerita hari itu selesai."
     ]
   },
+  {
+    id: 3,
+    title: "Sebuah Hadiah",
+    slug: "sebuah-hadiah",
+    genre: "Romance / Slice of Life",
+    readTime: "7 min read",
+    desc: "Perburuan sebuah hadiah di tengah derai hujan untuk seseorang yang menempati ruang super spesial di hidupku.",
+    date: "Jun 2026",
+    timestamp: 1780559760000,
+    content: [
+      "SEBUAH HADIAH",
+      "Hari ini bukan sekadar pergantian tanggal di kalender. Hari ini adalah tenggat waktu yang sudah lama kutunggu. Hari di mana aku akhirnya bisa memberikan sebuah hadiah untuk seseorang yang menempati ruang super spesial di hidupku.",
+      "Jika kalian bertanya, memangnya seberapa spesial dia? Biar kuberi Gambaran, Jarak rumah kami membentang sejauh 17 kilometer. Namun, jika suatu hari dia menelepon dan memintaku datang hanya untuk membantunya mengangkat jemuran, aku berani jamin, aku akan tiba di sana sebelum hujan sempat turun. Ya, dia sespesial itu.",
+      "Namun, sebelum perburuan hadiah ini dimulai sore nanti, aku harus menyelesaikan rutinitas akademik yang menjemukan. Kampus memanggilku untuk sebuah pertemuan organisasi dan—kejutan yang tidak pernah diharapkan mahasiswa mana pun—kuis dadakan. Pertemuan itu sendiri hanya berisi basa-basi dari kakak tingkat yang membagikan sharing pengalaman magang mereka, lalu ditutup dengan sesi foto bersama. Tentu saja, aku yang menjadi juru fotonya.",
+      "Setelah istirahat dan makan siang yang terburu-buru, aku melangkah ke ruangan multimedia untuk menghadapi kuis dadakan itu. Ruangan ini bisa dibilang adalah kamar keduaku. AC-nya yang selalu dingin dan suasananya yang redup membuatnya nyaman. Hampir setiap saat aku ada di sana. Jika kalian tidak bisa menemukanku di titik mana pun di kampus, sudah dipastikan aku sedang mengisolasi diri di ruangan itu. Untungnya, kuis hari ini cukup berbaik hati. Aku mendapatkan nilai sempurna tanpa harus menghabiskan banyak waktu.",
+      "Setelah semua agenda yang menguras energi sosial itu selesai, sore akhirnya tiba. Aku bersama teman-temanku—Aqil, Rangga, Diffa, Elisha, Dira, Sekar, dan Nabila—langsung bertolak menuju toko buku primadona di Margonda, Depok. Gramedia.",
+      "Toko buku ini bukan sekadar gerai yang menumpang di dalam perut pusat perbelanjaan. Ia berdiri kokoh dengan bangunannya sendiri, menjadikannya salah satu yang terbesar dengan koleksi yang sangat lengkap. Teman-temanku inilah yang akan mengawal dan membantuku mencari hadiah. Ah, aku hampir lupa memberitahu kalian: aku berencana membelikan tiga buah buku. Dua untuknya, dan satu untuk adiknya.",
+      "Begitu kaki kami menginjak lantai dua, tempat ribuan buku berbaris rapi menunggu tuannya, mataku langsung menangkap satu target. Posisinya strategis, tepat di depan eskalator, di rak best seller. Sebuah novel yang sangat terkenal dengan genre misterinya. Aku tahu persis dia sangat menyukai hal-hal berbau detektif dan misteri. Buku ini, seolah memanggil namanya.",
+      "Dan bicara soal namanya... tidak lama setelah buku pertama itu berpindah ke tanganku, ponsel di sakuku bergetar. Sebuah kebetulan yang terasa seperti takdir, dia seolah tahu aku sedang menyiapkan sesuatu untuknya di sini.",
+      "\"kirei bojong sonoan dikit\"",
+      "Begitulah nama kontak yang kusematkan untuknya di layar ponselku. Ya, namanya Kirei. Nama yang terdengar cukup islami dan anggun, bukan? Meski faktanya sangat berbanding terbalik. Bercanda…",
+      "Setelah aku menemukan buku kedua dan buku bacaan untuk adiknya, aku berjalan menuju kasir, bersiap pulang dan merebahkan diri. Namun, langit rupanya memiliki skenario lain. Hujan mendadak tumpah ruah di luar sana. Tentu saja, aku tidak mungkin nekat menerobos badai dengan membawa barang-barang spesial ini.",
+      "Alhasil, aku memutuskan untuk menepi sejenak, duduk sambil membaca sebuah buku yang segelnya sudah terbuka, menunggu hingga awan gelap itu berhenti menangis.",
+      "Namun, di tengah suara derai hujan yang menghantam kaca jendela, pikiranku mulai mengembara. Mengingat Kirei, rasanya hadiah ini belum cukup menggemakan kata 'spesial'. Aku harus menambahkan sesuatu. Sesuatu yang benar-benar meneriakkan identitasnya.",
+      "Mari kita analisis. Dia suka misteri karena detektif, dan dia suka detektif karena sebuah anime berjudul Bungo Stray Dogs. Sebuah ide melintas di kepalaku. Kenapa aku tidak membelikannya merchandise saja?",
+      "Jari-jariku dengan cepat berselancar di aplikasi toko online berwarna oranye. Ketemu. Sebuah mini figure yang harganya cukup ramah di kantong, tapi memiliki detail yang sangat menggemaskan. Langsung beli.",
+      "Lalu, memori lain muncul. Aku teringat betapa tergila-gilanya dia pada satu karakter virtual bernama Sylus. Saking sukanya, dia pernah berucap bercita-cita ingin menikahi Sylus. Dasar wibu stres.",
+      "Bagi kalian yang tidak tahu, Sylus adalah karakter dari gim Love and Deepspace. Gim asal Tiongkok yang memang sengaja 'menjual' ketampanan karakter lelakinya, jadi wajar saja jika banyak perempuan yang memainkannya.",
+      "Setelah scrolling beberapa saat, mataku tertuju pada sebuah boneka plushie berukuran sepuluh sentimeter. Jauh lebih lucu, lebih imut, dan lebih menggemaskan dari mini figure sebelumnya. Walaupun harganya enam kali lipat lebih mahal. Tapi, membayangkan senyum Kirei saat melihatnya, angka di layar itu seketika kehilangan maknanya.",
+      "Tanpa pikir panjang, aku langsung membelinya, lengkap dengan baju tidur mini untuk boneka itu.",
+      "Fyuh. Akhirnya selesai juga perburuan hadiah ini. Sejujurnya, ini adalah kali pertama aku memberikan sebuah hadiah dengan item sebanyak ini kepada seorang perempuan yang bukan keluargaku. Ada sedikit debar cemas, berharap dia akan menyukai semuanya. Tapi di lubuk hatiku yang terdalam, aku sangat yakin dia akan menyukainya.",
+      "Mungkin kalian mulai bertanya-tanya... kenapa aku mau melakukan effort sebesar ini?",
+      "Jawabannya sederhana. Semua ini sebenarnya masih belum sepadan jika dibandingkan dengan jejak yang Kirei tinggalkan di hidupku. Ada banyak hal yang dia lakukan—mungkin tanpa dia sadari—yang dampaknya begitu besar bagiku.",
+      "Contoh kecilnya saja outfit. Semenjak mengenalnya, selera berpakaianku berevolusi menjadi jauh lebih 'layak' dibandingkan Fatih di masa lalu. Lalu, tentang hasratku pada dunia desain. Dulu, desain hanyalah hobi sekilas yang hasilnya masih berada di bawah rata-rata. Tapi setelah mengenalnya, aku terdorong untuk terus melatih kemampuanku, hingga akhirnya aku bisa mendapatkan beberapa klien dan pesanan.",
+      "Itu hanyalah dua hal. Dua hal, dari ribuan hal tak kasat mata lainnya, yang kudapatkan sejak Kirei hadir di hidupku. Dan untuk semua itu, setumpuk buku, sebuah mini figure, dan boneka kecil sepuluh sentimeter ini, rasanya adalah harga yang sangat murah.",
+      "Ah iya, aku anggap Kirei super special bukan karena jejak yang dia tinggalkan kepadaku saja. Sebenarnya ada banyak alasan lain kenapa aku menganggap Kirei seperti itu, salah satunya ialah karena aku mencintainya."
+    ]
+  }
 ];
