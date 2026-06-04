@@ -149,7 +149,6 @@ export const novels = [
     date: "Jun 2026",
     timestamp: 1780559760000,
     content: [
-      "SEBUAH HADIAH",
       "Hari ini bukan sekadar pergantian tanggal di kalender. Hari ini adalah tenggat waktu yang sudah lama kutunggu. Hari di mana aku akhirnya bisa memberikan sebuah hadiah untuk seseorang yang menempati ruang super spesial di hidupku.",
       "Jika kalian bertanya, memangnya seberapa spesial dia? Biar kuberi Gambaran, Jarak rumah kami membentang sejauh 17 kilometer. Namun, jika suatu hari dia menelepon dan memintaku datang hanya untuk membantunya mengangkat jemuran, aku berani jamin, aku akan tiba di sana sebelum hujan sempat turun. Ya, dia sespesial itu.",
       "Namun, sebelum perburuan hadiah ini dimulai sore nanti, aku harus menyelesaikan rutinitas akademik yang menjemukan. Kampus memanggilku untuk sebuah pertemuan organisasi dan—kejutan yang tidak pernah diharapkan mahasiswa mana pun—kuis dadakan. Pertemuan itu sendiri hanya berisi basa-basi dari kakak tingkat yang membagikan sharing pengalaman magang mereka, lalu ditutup dengan sesi foto bersama. Tentu saja, aku yang menjadi juru fotonya.",
