@@ -173,7 +173,7 @@ export const novels = [
       "Jawabannya sederhana. Semua ini sebenarnya masih belum sepadan jika dibandingkan dengan jejak yang Kirei tinggalkan di hidupku. Ada banyak hal yang dia lakukan—mungkin tanpa dia sadari—yang dampaknya begitu besar bagiku.",
       "Contoh kecilnya saja outfit. Semenjak mengenalnya, selera berpakaianku berevolusi menjadi jauh lebih 'layak' dibandingkan Fatih di masa lalu. Lalu, tentang hasratku pada dunia desain. Dulu, desain hanyalah hobi sekilas yang hasilnya masih berada di bawah rata-rata. Tapi setelah mengenalnya, aku terdorong untuk terus melatih kemampuanku, hingga akhirnya aku bisa mendapatkan beberapa klien dan pesanan.",
       "Itu hanyalah dua hal. Dua hal, dari ribuan hal tak kasat mata lainnya, yang kudapatkan sejak Kirei hadir di hidupku. Dan untuk semua itu, setumpuk buku, sebuah mini figure, dan boneka kecil sepuluh sentimeter ini, rasanya adalah harga yang sangat murah.",
-      "Ah iya, aku anggap Kirei super special bukan karena jejak yang dia tinggalkan kepadaku saja. Sebenarnya ada banyak alasan lain kenapa aku menganggap Kirei seperti itu, salah satunya ialah karena aku mencintainya."
+      "Ah iya, aku anggap Kirei super special bukan karena jejak yang dia tinggalkan kepadaku saja. Sebenarnya ada banyak alasan lain kenapa aku menganggap Kirei seperti itu, salah satunya ialah karena perasaan yang tak bisa ku ungkapkan sekarang."
     ]
   }
 ];
